@@ -47,10 +47,10 @@
         <!-- logo image linking to home page goes here -->
         <a href="index.php">
             <div class="box logo"  title="Logo - Click here to go to the Home Page">
-            <img class="img-circle" src="images/gen_logo.png" width="150" height="150" alt="generic logo" />
+            <img class="img-circle" src="images/pancakes-g9ada0ad94_640.jpg" width="140" height="150" alt="generic logo" />
             
-            </div>    <!-- / logo -->
         </a>
+        </div>    <!-- / logo -->
             
             <h1>Tasty Reviews</h1>
         </div>    <!-- / banner -->
